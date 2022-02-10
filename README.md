@@ -1,2 +1,3 @@
-# LAB_LinearRegression_insurance
+# Laboratorio
+
 Regresión lineal multiple con selección de variables relevantes
